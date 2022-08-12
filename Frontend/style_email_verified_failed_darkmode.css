@@ -101,3 +101,9 @@ button {
     cursor: pointer;
     height: 20px;
 }
+
+@media (min-width: 375px) and (max-width: 900px) {
+    .img {
+        width: 40vw;
+    }
+  }
